@@ -1,0 +1,22 @@
+.wrapper {
+  width: 100%;
+}
+
+.content {
+  width: 1200px;
+  margin: auto;
+  display: block;
+}
+
+header {
+  height: 50px;
+  display: block;
+}
+
+.promo-banners {
+  background-image: url('images/promo_banners/banner_1.jpg');
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 1200px;
+  display: block;
+}
